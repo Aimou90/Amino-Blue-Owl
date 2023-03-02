@@ -98,7 +98,7 @@ try:
           "\033[31m" +
           "Essa conta não existe! - Pressione 'CTRL + C' PARA SAIR\n" +
           "EndPoints:\033[37m", err)
-       except aminofix.lib.util.exceptions.VerificationRequired as err:
+      except aminofix.lib.util.exceptions.VerificationRequired as err:
         print(
           "\033[31m" +
           "Verificação requirida! - Acesse o link retornado pelo endpoint para verificar" +
