@@ -68,6 +68,7 @@ try:
             print("\033[31m" + "Valor Incorreto" + "\033[37m")
           except KeyboardInterrupt:
             print("\033[31m" + "Processo Interrompido - Digite CTRL + C para sair" + "\033[37m")
+            exit()
 
       # Maioria dos casos, essa exceção é devido ao dispositivo não suportar a versão
       # Devido a falta de parâmetros. Se esse erro persistir por mais que esteja tudo correto
