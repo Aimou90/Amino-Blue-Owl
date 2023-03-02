@@ -24,15 +24,16 @@ $ dnf update
 $ pacman -Syu
 ```
 
-Após atualizar seu repositório, você deve fazer a instalação do Python e Git utilizando seu gerenciador de pacote, logo, clonando esse repositório, acessando o diretório do projeto e executando o script
+Após atualizar seu repositório, você deve fazer a instalação do Python e Git utilizando seu gerenciador de pacote, logo, clonando esse repositório, acessando o diretório do projeto, instalando os requerimentos e executando o script.
 ```
 $ git clone https://github.com/MrWestOFC/Amino-Blue-Owl
 $ cd Amino-Blue-Owl
+$ pip install -r requirements.txt
 $ python main.py
 ```
 
 ## Nota!
-- Deve conter um arquivozinho em json, nomeado de 'config', é por lá que você irá colocar seu email, senha e o ID da comunidade que você deseja gerenciar seus chats. O Arquivo em Json conterá esses seguintes endpoints:
+- Deve conter um arquivozinho em json, nomeado de 'config', é por lá que você irá colocar seu email, senha e o ID da comunidade que você deseja gerenciar seus chats, mas se você executar o script sem o arquivo, ele criará um novo e você pode editar sem perder a produtividade. O Arquivo em Json conterá esses seguintes endpoints:
 ```json
 {
     "Project": "Blue Owl Lite - MrWest",
@@ -47,7 +48,15 @@ $ python main.py
             "comid": ""
         }
     }
-}  
+}
 ```
+ 
+## Auxiliar
+Existe um auxiliar dentro do repositório em que você poderá retornar o comID de uma comunidade pelo ID o Amino. Exemplo:
+```
+python aux.py
+```
+## Posso usar no Pydroid?
+Sim, você pode executar o script tranquilamente no Pydroid, basta você baixar o arquivo em python do projeto e utilizar tranquilamente. O auxiliar é opcional, já que ele é só um adicional para você conseguir capturar ID de comunidade, mas ele também utiliza o config.json para poder logar em sua conta
 <div/>
   
