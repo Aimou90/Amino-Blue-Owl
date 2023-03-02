@@ -1,0 +1,14 @@
+{
+    "Project": "Blue Owl Lite - MrWest",
+    "Author": "Mister West",
+    "Description": "Bot criado com objetivo de fechar seus chats de forma que n\u00e3o seja afetado pela trava de um flood",
+    "blueowl": {
+        "account": {
+            "email": "",
+            "passwd": ""
+        },
+        "community": {
+            "comid": ""
+        }
+    }
+}
