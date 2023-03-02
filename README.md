@@ -33,7 +33,7 @@ $ python main.py
 ```
 
 ## Nota!
-- Deve conter um arquivozinho em json, nomeado de 'config', é por lá que você irá colocar seu email, senha e o ID da comunidade que você deseja gerenciar seus chats, mas se você executar o script sem o arquivo, ele criará um novo e você pode editar sem perder a produtividade. O Arquivo em Json conterá esses seguintes endpoints:
+Deve conter um arquivozinho em json, nomeado de 'config', é por lá que você irá colocar seu email, senha e o ID da comunidade que você deseja gerenciar seus chats, mas se você executar o script sem o arquivo, ele criará um novo e você pode editar sem perder a produtividade. O Arquivo em Json conterá esses seguintes endpoints:
 ```json
 {
     "Project": "Blue Owl Lite - MrWest",
