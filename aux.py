@@ -52,7 +52,7 @@ try:
 
 except FileNotFoundError:
   print("O arquivo 'config.json' não encontrado, criando...")
-  aDict = {
+  dict = {
     "Project": "Blue Owl Lite - MrWest",
     "Author": "Mister West",
     "Description":
