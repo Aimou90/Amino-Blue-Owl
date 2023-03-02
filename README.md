@@ -52,7 +52,7 @@ Deve conter um arquivozinho em json, nomeado de 'config', é por lá que você i
 ```
  
 ## Auxiliar
-Existe um auxiliar dentro do repositório em que você poderá retornar o comID de uma comunidade pelo ID o Amino. Exemplo:
+Existe um auxiliar dentro do repositório em que você poderá retornar o comID de uma comunidade pelo ID do Amino.
 ```
 python aux.py
 ```
