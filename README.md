@@ -4,10 +4,10 @@
 <div>
 
 ## Introdução!
-Há pessoas Bibliotecas que interajam com a API do Amino que, apesar do desenvolvedor pensar como forma de solução para suas automações seja para estudo, diversão ou gestão, existem aqueles que utiliza de forma mal intencionada, logo fazendo aqueles que são leigos no assunto terem uma imagem muito distrocida do projeto (já que quando se fala de script no amino a primeira coisa que falam é: "Script funciona pra travar chat" ou "Script é um bot que convida pessoas para uma chamada de forma indevida"). Essas pessoas mal intencionadas utilizam desse projeto para travar os chats das comunidades do amino, causando prejuízo na comunicação de usuários. Como forma de solução para lidar com esses tipos de pessoas dentro do amino, foi criado esse projeto, com a contribuição da <strong>Oceanos</strong> (Clâ da Otanix) para distribuir a publico esse projeto.
+Há pessoas Bibliotecas que interajam com a API do Amino que, apesar do desenvolvedor pensar como forma de solução para suas automações seja para estudo, diversão ou gestão, existem aqueles que utilizam de forma mal intencionada. Logo, fazendo aqueles que são leigos no assunto terem uma imagem muito distorcida do projeto (já que, quando se fala de script no Amino, a primeira coisa que falam é: "Script funciona pra travar chat" ou "Script é um bot que convida pessoas para uma chamada de forma indevida"). Essas pessoas mal intencionadas utilizam desse projeto para travar os chats das comunidades do Amino, causando prejuízo na comunicação dos usuários. Como forma de solução para lidar com esses tipos de pessoas dentro da plataforma, foi criado esse projeto com a contribuição da Oceanos (Clã da Otanix) para distribuir a público esse projeto.
 
-O Blue Owl foi desenvolvido especificamente para a proteção dos chats da Oceanos, mas foi decidido ser distribuido para o público para todos poderem usar. Isso foi pensado pois nem todos são capazes de se protegerem, logo sendo vítimas de travas, sem a chance de se defender.
- 
+O Blue Owl foi desenvolvido especificamente para a proteção dos chats da Oceanos, mas foi decidido ser distribuído para o público para todos poderem usar. Isso foi pensado, pois nem todos são capazes de se protegerem. Logo, sendo vítimas de travas sem a chance de se defender.
+
 ## Como Usar? Linux - (Terminal/Termux)
 A principio, é sempre bom você atualizar seus repositórios, então utilize o gerenciador de pacotes do seu terminal para atualizar seus pacotes
 
