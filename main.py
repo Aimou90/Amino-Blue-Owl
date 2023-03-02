@@ -110,7 +110,7 @@ try:
       # End
 except FileNotFoundError:
   print("O arquivo 'config.json' não encontrado, criando...")
-  aDict = {
+  dict = {
     "Project": "Blue Owl Lite - MrWest",
     "Author": "Mister West",
     "Description":
@@ -126,10 +126,10 @@ except FileNotFoundError:
     }
   }
 
-  jsonString = json.dumps(aDict, indent=4)
-  jsonFile = open("config.json", "w")
-  jsonFile.write(jsonString)
-  jsonFile.close()
+  json_dict = json.dumps(dict, indent=4)
+  file_config_json = open("config.json", "w")
+  file_config_json.write(json_dict)
+  file_config_json.close()
   print("Concluído! Digite CTRL + C e edite o arquivo")
 
   # End
