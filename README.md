@@ -59,7 +59,7 @@ python aux.py
 ## Posso usar no Pydroid?
 Sim, você pode executar o script tranquilamente no Pydroid, basta você baixar o arquivo em python do projeto e utilizar tranquilamente. O auxiliar é opcional, já que ele é só um adicional para você conseguir capturar ID de comunidade, mas ele também utiliza o config.json para poder logar em sua conta
 
-#### Demonstração
+#### Demonstração - Processo de Download para Pydroid
 <a href="https://youtube.com/shorts/e-uynda5UwM?feature=share"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center"/></a>
 <div/>
   
