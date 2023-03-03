@@ -11,6 +11,9 @@ O Blue Owl foi desenvolvido especificamente para a proteção dos chats da Ocean
 ## Como Usar? Linux - (Terminal/Termux)
 A principio, é sempre bom você atualizar seus repositórios, então utilize o gerenciador de pacotes do seu terminal para atualizar seus pacotes
 
+#### Demonstração - Como funciona
+<a href="https://youtube.com/shorts/hIDLG5__ZT0?feature=share"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center"/></a>
+
 ### Debian Based (Ubuntu, ZorinOS, Linux Mint) ou Termux
 ```
 $ apt update && apt upgrade -y
